@@ -4,16 +4,16 @@
 <p align="center">
 
   
-  <a href="https://github.com/runixe786">
+  <a href="https://github.com/mxzimusic">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
   </a>
 
-  <a href="https://bit.ly/MaybeSahil">
+  <a href="https://bit.ly/Mxzimusic">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg">
   </a>
  
- <a href="https://www.linkedin.com/in/sahil-seth-152ab5284/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg">
+ <a h
+    <
   </a>
 
 <a href="mailto:sahilseth2099@gmail.com">
